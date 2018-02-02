@@ -5,7 +5,7 @@ This repository contains the Matlab examples for the lectures on Medical Images,
 
 Git is a great tool to help you have always the latest version without much fuzz. In addition, you may submit comments, isssues and requests without the hassle of emails. Moreover if you deside to contribute your own code you can do it in a transparent, trackable way  and be available to everybody immediately. 
 
-### How to gets started
+### How to get started
 
 This is a public repository (you might regard it as a shared folder). You can access it freely but you will need an application to do that. Lucky for you there are hundreds free out there. 
 
