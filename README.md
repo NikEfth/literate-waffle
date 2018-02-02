@@ -1,4 +1,4 @@
-# MATLAB scripts
+# MATLAB scripts for Image Analysis course
 This repository contains the Matlab examples for the lectures on Medical Images, for the M.Sc. On Cancer Imaging at the University of Hull.
 
 ## What is git
