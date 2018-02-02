@@ -17,7 +17,10 @@ A small list would include:
 
 * https://www.gitkraken.com/
 
-  ​
+## Trainning / Tutorials
+* https://mva.microsoft.com/en-us/training-courses/github-for-windows-users-16749?l=KTNeW39wC_6006218965
+* https://guides.github.com/activities/hello-world/
+* https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/
 
 Moreover there are tons of training videos and ppts and pdfs to help you get started.
 Essentially the only thing you have to do, after you download one of the aforementioned applications is to select "open new repository" ( located somewhere in their options) and paste the link of this repository git@github.com:NikEfth/literate-waffle.git or https://github.com/NikEfth/literate-waffle.git. Both link to the same location. 
