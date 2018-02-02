@@ -1,4 +1,4 @@
-# literate-waffle
+# MATLAB scripts
 This repository contains the Matlab examples for the lectures on Medical Images, for the M.Sc. On Cancer Imaging at the University of Hull.
 
 ## How to download and use
