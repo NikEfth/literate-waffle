@@ -29,6 +29,9 @@ Then press clone which is the equivalent of "sync" and a folder in your system w
 ### Alternatively
 Alternatively you have the option to download the most recent version in a compressed format. That will work, but you will not be able to sync, so you'll have to redownload on every update. 
 
+### For more information
+For more information, please look at the wiki page. As all this is new the content is under construction. 
+
 Finaly, if you create a github account (is up to you) and you press the watch icon (near the top of the page) whenever I upload new files or make correction a notification will arrive to your email. In addition, you will get to submit issues and requests. 
 
 That would be all, 
